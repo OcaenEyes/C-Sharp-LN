@@ -1,0 +1,6 @@
+/Users/gaozhiyong/Documents/GitHub/C-Sharp-LN/BasicKnowledge/BasicKnowledge/bin/Debug/BasicKnowledge.exe
+/Users/gaozhiyong/Documents/GitHub/C-Sharp-LN/BasicKnowledge/BasicKnowledge/bin/Debug/BasicKnowledge.pdb
+/Users/gaozhiyong/Documents/GitHub/C-Sharp-LN/BasicKnowledge/BasicKnowledge/obj/x86/Debug/BasicKnowledge.csprojAssemblyReference.cache
+/Users/gaozhiyong/Documents/GitHub/C-Sharp-LN/BasicKnowledge/BasicKnowledge/obj/x86/Debug/BasicKnowledge.csproj.CoreCompileInputs.cache
+/Users/gaozhiyong/Documents/GitHub/C-Sharp-LN/BasicKnowledge/BasicKnowledge/obj/x86/Debug/BasicKnowledge.exe
+/Users/gaozhiyong/Documents/GitHub/C-Sharp-LN/BasicKnowledge/BasicKnowledge/obj/x86/Debug/BasicKnowledge.pdb

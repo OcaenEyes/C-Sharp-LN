@@ -100,6 +100,16 @@ namespace BasicKnowledge
              *               
              */
 
+            int i1 = 520;
+            float f1 = 50.221f;
+            double d1 = 2345.5022;
+            bool b1 = false;
+
+            Console.WriteLine(i1.ToString());
+            Console.WriteLine(f1.ToString());
+            Console.WriteLine(d1.ToString());
+            Console.WriteLine(b1.ToString());
+
         }
     }
 }

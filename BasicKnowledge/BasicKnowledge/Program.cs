@@ -23,11 +23,22 @@ namespace BasicKnowledge
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+            //数据类型
             DataType dt = new DataType();
             dt.ShowDataType();
-
+            //类型转换
+            dt.ChangeDataType();
+            //常量
+            Constant cs = new Constant();
+            cs.ConstantInit();
+            Console.WriteLine("c1的值:{0}", Constant.c1);
+            Console.WriteLine("c2的值:{0}", Constant.c2);
+            cs.ShowConstant(12,34);
+            Console.WriteLine("x的值:{0}", cs.x);
+            Console.WriteLine("y的值:{0}", cs.y);
+            //
             Console.ReadLine();
+
         }
     }
 }

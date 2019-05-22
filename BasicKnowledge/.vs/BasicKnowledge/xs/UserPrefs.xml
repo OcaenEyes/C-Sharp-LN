@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{F771E22A-48B8-4E9E-9756-556142841BFB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BasicKnowledge/DataType.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicKnowledge/Encapsulate.cs">
     <Files>
-      <File FileName="BasicKnowledge/Program.cs" Line="28" Column="31" />
-      <File FileName="BasicKnowledge/DataType.cs" Line="69" Column="49" />
+      <File FileName="BasicKnowledge/Program.cs" Line="9" Column="34" />
+      <File FileName="BasicKnowledge/Encapsulate.cs" Line="11" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BasicKnowledge" expanded="True">
             <Node name="BasicKnowledge" expanded="True">
-              <Node name="DataType.cs" selected="True" />
+              <Node name="Encapsulate.cs" selected="True" />
             </Node>
           </Node>
         </State>

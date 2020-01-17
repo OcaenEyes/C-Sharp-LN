@@ -7,3 +7,12 @@ C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.Properties.Resource
 C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChatClient.csproj.GenerateResource.cache
 C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.exe
 C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.pdb
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\bin\Debug\LemonChat.exe.config
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\bin\Debug\LemonChat.exe
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\bin\Debug\LemonChat.pdb
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\obj\Debug\LemonChatClient.csprojAssemblyReference.cache
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\obj\Debug\LemonChat.ClientLoginForm.resources
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\obj\Debug\LemonChat.Properties.Resources.resources
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\obj\Debug\LemonChatClient.csproj.GenerateResource.cache
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\obj\Debug\LemonChat.exe
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChat\obj\Debug\LemonChat.pdb

@@ -1,0 +1,9 @@
+C:\Users\17032081\source\repos\LemonChatServer\bin\Debug\LemonChatServer.exe.config
+C:\Users\17032081\source\repos\LemonChatServer\bin\Debug\LemonChatServer.exe
+C:\Users\17032081\source\repos\LemonChatServer\bin\Debug\LemonChatServer.pdb
+C:\Users\17032081\source\repos\LemonChatServer\obj\Debug\LemonChatServer.csprojAssemblyReference.cache
+C:\Users\17032081\source\repos\LemonChatServer\obj\Debug\LemonChatServer.Properties.Resources.resources
+C:\Users\17032081\source\repos\LemonChatServer\obj\Debug\LemonChatServer.csproj.GenerateResource.cache
+C:\Users\17032081\source\repos\LemonChatServer\obj\Debug\LemonChatServer.exe
+C:\Users\17032081\source\repos\LemonChatServer\obj\Debug\LemonChatServer.pdb
+C:\Users\17032081\source\repos\LemonChatServer\obj\Debug\LemonChatServer.LemonChatServerIndexForm.resources

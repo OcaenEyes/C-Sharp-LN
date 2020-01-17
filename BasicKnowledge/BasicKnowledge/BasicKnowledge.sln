@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicKnowledge", "BasicKnowledge.csproj", "{F771E22A-48B8-4E9E-9756-556142841BFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicKnowledge", "BasicKnowledge\BasicKnowledge.csproj", "{F771E22A-48B8-4E9E-9756-556142841BFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

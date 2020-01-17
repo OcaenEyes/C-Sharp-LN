@@ -1,0 +1,9 @@
+C:\Users\17032081\source\repos\LemonChat\bin\Debug\LemonChat.exe.config
+C:\Users\17032081\source\repos\LemonChat\bin\Debug\LemonChat.exe
+C:\Users\17032081\source\repos\LemonChat\bin\Debug\LemonChat.pdb
+C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChatClient.csprojAssemblyReference.cache
+C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.ClientLoginForm.resources
+C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.Properties.Resources.resources
+C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChatClient.csproj.GenerateResource.cache
+C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.exe
+C:\Users\17032081\source\repos\LemonChat\obj\Debug\LemonChat.pdb

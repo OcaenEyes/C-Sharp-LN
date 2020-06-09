@@ -16,3 +16,4 @@ C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChatServer\obj\Debug\Lemon
 C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChatServer\obj\Debug\LemonChatServer.csproj.GenerateResource.cache
 C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChatServer\obj\Debug\LemonChatServer.exe
 C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChatServer\obj\Debug\LemonChatServer.pdb
+C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\LemonChatServer\obj\Debug\LemonChatServer.csproj.CoreCompileInputs.cache

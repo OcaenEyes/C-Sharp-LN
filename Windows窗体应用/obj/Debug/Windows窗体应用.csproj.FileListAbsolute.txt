@@ -1,9 +1,0 @@
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\bin\Debug\Windows窗体应用.exe.config
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\bin\Debug\Windows窗体应用.exe
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\bin\Debug\Windows窗体应用.pdb
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\obj\Debug\Windows窗体应用.csprojAssemblyReference.cache
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\obj\Debug\Windows窗体应用.Form1.resources
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\obj\Debug\Windows窗体应用.Properties.Resources.resources
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\obj\Debug\Windows窗体应用.csproj.GenerateResource.cache
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\obj\Debug\Windows窗体应用.exe
-C:\Users\YSilhouette\Documents\GitHub\C-Sharp-LN\Windows窗体应用\obj\Debug\Windows窗体应用.pdb

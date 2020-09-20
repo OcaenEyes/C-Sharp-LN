@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Windows窗体应用\\bin\\Release",
-    "\\Windows窗体应用\\obj\\Release"
+    "\\BasicKnowledge",
+    "\\BasicKnowledge\\BasicKnowledge",
+    "\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge",
+    "\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge\\bin",
+    "\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge\\bin\\Debug"
   ],
-  "SelectedNode": "\\Windows窗体应用",
+  "SelectedNode": "\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge\\DataType.cs",
   "PreviewInSolutionExplorer": false
 }
